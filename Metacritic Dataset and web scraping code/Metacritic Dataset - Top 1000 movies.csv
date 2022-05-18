@@ -1,0 +1,1001 @@
+,Title,Genre,Year,Metascore,Userscore,Director,Duration
+0,The Godfather,Drama,1972,100,9.2,Francis Ford Coppola,175
+1,Rear Window,Mystery,1954,100,8.7,Alfred Hitchcock,112
+2,Casablanca,Drama,1943,100,8.8,Michael Curtiz,102
+3,Boyhood,Drama,2014,100,7.4,Richard Linklater,165
+4,Three Colors: Red,Drama,1994,100,8.5,Krzysztof Kieslowski,99
+5,Notorious,Drama,1946,100,7.9,Alfred Hitchcock,101
+6,Singin' in the Rain,Comedy,1952,99,8.7,Gene Kelly and Stanley Donen,103
+7,City Lights,Drama,1931,99,8.9,Charles Chaplin,87
+8,Moonlight,Drama,2016,99,7.1,Barry Jenkins,111
+9,Intolerance,Drama,1916,99,7.1,D.W. Griffith,197
+10,Pinocchio,Fantasy,1940,99,8.1,Ben Sharpsteen and Bill Roberts and Hamilton Luske and Jack Kinney and Norman Ferguson and T. Hee and Wilfred Jackson,88
+11,Touch of Evil,Drama,1958,99,8.4,Orson Welles,95
+12,The Lady Vanishes,Mystery,1938,98,7.7,Alfred Hitchcock,96
+13,The Treasure of the Sierra Madre,Adventure,1948,98,8.1,John Huston,126
+14,Pan's Labyrinth,Drama,2006,98,8.7,Guillermo del Toro,118
+15,Some Like It Hot,Comedy,1959,98,8.4,Billy Wilder,121
+16,North by Northwest,Action,1959,98,8.0,Alfred Hitchcock,136
+17,Hoop Dreams,Drama,1994,98,7.9,Steve James,170
+18,Rashomon,Drama,1951,98,8.6,Akira Kurosawa,88
+19,All About Eve,Drama,1950,98,8.8,Joseph L. Mankiewicz,138
+20,Jules and Jim,Drama,1962,97,6.4,François Truffaut,105
+21,The Wild Bunch,Action,1969,97,7.4,Sam Peckinpah,135
+22,My Left Foot,Biography,1989,97,8.3,Jim Sheridan,103
+23,The Third Man,Mystery,1949,97,8.5,Carol Reed,104
+24,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Thriller,1964,97,8.4,Stanley Kubrick,95
+25,"Quo Vadis, Aida?",Drama,2021,97,8.0,Jasmila Zbanic,101
+26,Gone with the Wind,Drama,1940,97,8.3,George Cukor and Sam Wood and Victor Fleming,238
+27,"4 Months, 3 Weeks and 2 Days",Drama,2008,97,7.9,Cristian Mungiu,113
+28,Psycho,Mystery,1960,97,8.9,Alfred Hitchcock,109
+29,Battleship Potemkin,Drama,1926,97,8.3,Sergei M. Eisenstein,75
+30,A Streetcar Named Desire,Drama,1951,97,8.2,Elia Kazan,122
+31,The Maltese Falcon,Mystery,1941,97,7.9,John Huston,100
+32,American Graffiti,Drama,1973,97,7.5,George Lucas,110
+33,Dumbo,Drama,1941,96,7.7,Ben Sharpsteen and Bill Roberts and Jack Kinney and John Elliotte and Norman Ferguson and Samuel Armstrong and Wilfred Jackson,64
+34,Roma,Drama,2018,96,7.7,Alfonso Cuarón,135
+35,Parasite,Drama,2019,96,8.7,Joon-ho Bong,132
+36,Ran,Action,1985,96,8.4,Akira Kurosawa,162
+37,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",Documentary,2021,96,7.4,Ahmir-Khalib Thompson,117
+38,The Shop Around the Corner,Drama,1940,96,6.8,Ernst Lubitsch,99
+39,12 Angry Men,Drama,1957,96,8.9,Sidney Lumet,96
+40,Rosemary's Baby,Drama,1968,96,8.2,Roman Polanski,137
+41,12 Years a Slave,Biography,2013,96,8.0,Steve McQueen,134
+42,Manchester by the Sea,Drama,2016,96,8.2,Kenneth Lonergan,137
+43,Killer of Sheep,Drama,2007,96,6.8,Charles Burnett,80
+44,Nashville,Drama,1975,96,8.0,Robert Altman,160
+45,Ratatouille,Fantasy,2007,96,8.6,Brad Bird,111
+46,The Grapes of Wrath,Drama,1940,96,8.6,John Ford,129
+47,Mean Streets,Drama,1973,96,7.3,Martin Scorsese,112
+49,The Lady Eve,Comedy,1941,96,6.4,Preston Sturges,94
+50,Gravity,Sci-Fi,2013,96,7.8,Alfonso Cuarón,91
+51,Fantasia,Fantasy,1940,96,8.3,Ben Sharpsteen and Bill Roberts and David Hand and Ford Beebe Jr. and Hamilton Luske and James Algar and Jim Handley and Norman Ferguson and Paul Satterfield and Samuel Armstrong and T. Hee and Wilfred Jackson,125
+52,Spirited Away,Adventure,2002,96,8.9,Hayao Miyazaki,125
+53,Beauty and the Beast,Fantasy,1991,95,8.5,Gary Trousdale and Kirk Wise,84
+54,Toy Story,Adventure,1995,95,8.8,John Lasseter,81
+55,The Bride of Frankenstein,Sci-Fi,1935,95,8.1,James Whale,75
+56,Don't Look Now,Drama,1973,95,6.8,Nicolas Roeg,110
+57,The Social Network,Biography,2010,95,8.2,David Fincher,120
+58,My Fair Lady,Drama,1964,95,7.8,George Cukor,170
+59,Portrait of a Lady on Fire,Drama,2019,95,8.6,Céline Sciamma,122
+60,I Am Not Your Negro,Documentary,2016,95,5.2,Raoul Peck,93
+62,Double Indemnity,Drama,1944,95,8.5,Billy Wilder,107
+63,Rocks,Drama,2021,95,6.6,Sarah Gavron,93
+64,Snow White and the Seven Dwarfs,Fantasy,1938,95,8.2,Ben Sharpsteen and David Hand and Larry Morey and Perce Pearce and Wilfred Jackson and William Cottrell,83
+65,The Hurt Locker,Action,2009,95,7.3,Kathryn Bigelow,131
+66,Anatomy of a Murder,Drama,1959,95,8.0,Otto Preminger,160
+67,Zero Dark Thirty,Action,2012,95,6.9,Kathryn Bigelow,157
+68,Collective,Documentary,2020,95,7.9,Alexander Nanau,109
+69,A Separation,Drama,2011,95,8.8,Asghar Farhadi,123
+70,WALL-E,Adventure,2008,95,8.8,Andrew Stanton,98
+71,Carol,Drama,2015,94,8.0,Todd Haynes,118
+72,Before Midnight,Drama,2013,94,8.3,Richard Linklater,109
+73,Amour,Drama,2012,94,8.0,Michael Haneke,127
+74,Dunkirk,Action,2017,94,8.2,Christopher Nolan,106
+75,The Man Who Shot Liberty Valance,Drama,1962,94,8.6,John Ford,123
+76,The Searchers,Adventure,1956,94,7.3,John Ford,119
+77,45 Years,Drama,2015,94,7.3,Andrew Haigh,95
+78,The Servant,Drama,1964,94,7.5,Joseph Losey,116
+79,Pulp Fiction,Drama,1994,94,9.0,Quentin Tarantino,154
+80,The Manchurian Candidate,Drama,1962,94,8.1,John Frankenheimer,126
+81,Mr. Turner,Biography,2014,94,6.9,Mike Leigh,150
+82,The Irishman,Biography,2019,94,8.1,Martin Scorsese,209
+83,Amazing Grace,Documentary,2018,94,8.2,Alan Elliott and Sydney Pollack,87
+85,Shadow of a Doubt,Thriller,1943,94,8.2,Alfred Hitchcock,108
+86,Inside Out,Adventure,2015,94,8.7,Pete Docter and Ronaldo Del Carmen,94
+87,Sideways,Drama,2004,94,7.0,Alexander Payne,126
+88,Schindler's List,Biography,1993,94,8.8,Steven Spielberg,195
+89,Meet Me in St. Louis,Drama,1945,94,6.3,Vincente Minnelli,113
+90,The Apartment,Drama,1960,94,7.8,Billy Wilder,125
+91,Apocalypse Now,Action,1979,94,8.8,Francis Ford Coppola,153
+92,The Gunfighter,Western,1950,94,6.7,Henry King,85
+93,We Were Here,Documentary,2011,94,6.6,Bill Weber and David Weissman,90
+94,Faces Places,Documentary,2017,94,6.9,Agnès Varda and JR,89
+96,The Lord of the Rings: The Return of the King,Action,2003,94,8.9,Peter Jackson,201
+97,Carlos,Biography,2010,94,7.9,Olivier Assayas,325
+98,Marriage Story,Drama,2019,94,8.1,Noah Baumbach,137
+99,La La Land,Drama,2016,94,8.4,Damien Chazelle,128
+100,"Crouching Tiger, Hidden Dragon",Action,2000,94,8.1,Ang Lee,120
+101,Petite Maman,Drama,2021,93,7.6,Céline Sciamma,72
+102,Nomadland,Drama,2020,93,7.3,Chloé Zhao,107
+103,Call Me by Your Name,Drama,2017,93,8.0,Luca Guadagnino,132
+104,The Magnificent Ambersons,Drama,1942,93,8.6,Fred Fleck and Orson Welles and Robert Wise,88
+105,Reversal of Fortune,Drama,1990,93,8.1,Barbet Schroeder,111
+106,Lady Bird,Drama,2017,93,7.6,Greta Gerwig,94
+107,Shoplifters,Drama,2018,93,8.3,Hirokazu Koreeda,121
+109,The 39 Steps,Mystery,1935,93,8.0,Alfred Hitchcock,86
+110,Duck Soup,Comedy,1933,93,7.7,Leo McCarey,68
+111,Toni Erdmann,Drama,2016,93,7.0,Maren Ade,162
+112,Yi Yi,Drama,2000,93,8.5,Edward Yang,173
+113,McCabe & Mrs. Miller,Drama,1971,93,7.6,Robert Altman,120
+114,The Best Years of Our Lives,Drama,1946,93,8.5,William Wyler,170
+115,Stagecoach,Adventure,1939,93,7.6,John Ford,96
+116,Inside Llewyn Davis,Drama,2013,93,7.8,Ethan Coen and Joel Coen,104
+117,Sherpa,Documentary,2015,93,7.6,Jennifer Peedom,96
+118,There Will Be Blood,Drama,2007,93,8.1,Paul Thomas Anderson,158
+119,Badlands,Drama,1973,93,8.4,Terrence Malick,94
+120,The Last Picture Show,Drama,1971,93,8.4,Peter Bogdanovich,118
+121,Do the Right Thing,Drama,1989,93,8.2,Spike Lee,120
+122,Sita Sings the Blues,Fantasy,2009,93,7.2,Nina Paley,82
+123,The Decline of Western Civilization,History,1981,93,7.0,Penelope Spheeris,100
+124,Yojimbo,Action,1961,93,8.0,Akira Kurosawa,110
+125,Rio Bravo,Action,1959,93,8.0,Howard Hawks,141
+126,Brother's Keeper,Mystery,1992,93,7.5,Bruce Sinofsky and Joe Berlinger,104
+128,Crumb,Biography,1995,93,8.4,Terry Zwigoff,119
+129,Spotlight,Biography,2015,93,8.2,Thomas McCarthy,128
+131,One More Time with Feeling,Music,2016,92,7.8,Andrew Dominik,112
+132,The Diving Bell and the Butterfly,Biography,2007,92,8.3,Julian Schnabel,112
+133,Invasion of the Body Snatchers,Sci-Fi,1956,92,7.9,Don Siegel,80
+135,The Class,Drama,2008,92,7.4,Laurent Cantet,128
+136,Platoon,Drama,1987,92,8.0,Oliver Stone,120
+137,35 Shots of Rum,Drama,2009,92,6.4,Claire Denis,100
+138,Apocalypse Now: Final Cut,Drama,2019,92,8.5,Francis Ford Coppola,182
+139,Chinatown,Drama,1974,92,8.7,Roman Polanski,130
+140,The Florida Project,Drama,2017,92,7.4,Sean Baker,111
+141,Timbuktu,Drama,2015,92,7.3,Abderrahmane Sissako,97
+142,Frenzy,Thriller,1972,92,7.2,Alfred Hitchcock,116
+143,Brief Encounter,Drama,1946,92,7.6,David Lean,86
+144,No Country for Old Men,Drama,2007,92,7.9,Ethan Coen and Joel Coen,122
+145,Cool Hand Luke,Drama,1967,92,8.6,Stuart Rosenberg,126
+146,Little Women,Drama,1933,92,5.3,George Cukor,115
+147,Maborosi,Drama,1997,92,7.8,Hirokazu Koreeda,110
+148,Top Hat,Comedy,1935,92,7.0,Mark Sandrich,101
+149,Apocalypse Now Redux,Action,2001,92,8.0,Francis Ford Coppola,153
+150,Never Rarely Sometimes Always,Drama,2020,92,0.8,Eliza Hittman,101
+151,The Lord of the Rings: The Fellowship of the Ring,Action,2001,92,9.1,Peter Jackson,178
+152,Quiz Show,Drama,1994,92,8.5,Robert Redford,133
+153,Leviathan,Drama,2014,92,7.3,Andrei Zvyagintsev,140
+154,Werckmeister Harmonies,Sci-Fi,2001,92,7.9,Ágnes Hranitzky and Béla Tarr,145
+155,Toy Story 3,Adventure,2010,92,8.9,Lee Unkrich,103
+156,This Is Spinal Tap,Comedy,1984,92,8.1,Rob Reiner,82
+157,The Look of Silence,Documentary,2015,92,8.3,Joshua Oppenheimer,103
+158,Tower,History,2016,92,8.0,Keith Maitland,96
+159,The Rider,Adventure,2018,92,7.5,Chloé Zhao,104
+160,Drive My Car,Drama,2021,91,7.4,Ryûsuke Hamaguchi,179
+161,Moolaadé,Drama,2004,91,8.0,Ousmane Sembene,124
+162,Atanarjuat: The Fast Runner,Drama,2002,91,8.1,Zacharias Kunuk,172
+163,Ikiru,Drama,1956,91,8.4,Akira Kurosawa,143
+164,Time,Documentary,2020,91,5.4,Garrett Bradley,81
+165,Gavagai,Drama,2018,91,6.0,Rob Tregenza,90
+166,The Man Who Would Be King,Adventure,1975,91,6.9,John Huston,129
+167,The Killing,Drama,1956,91,7.4,Stanley Kubrick,84
+169,Breaking Away,Drama,1979,91,8.4,Peter Yates,101
+170,The Souvenir,Drama,2019,91,6.3,Joanna Hogg,120
+171,After Life,Drama,1999,91,6.4,Hirokazu Koreeda,118
+172,Son of Saul,Drama,2015,91,7.3,László Nemes,107
+174,Frankenstein,Sci-Fi,1931,91,8.1,James Whale,70
+175,8½,Drama,1963,91,7.7,Federico Fellini,138
+176,Little Women,Drama,2019,91,7.5,Greta Gerwig,135
+177,E.T. The Extra-Terrestrial,Adventure,1982,91,8.2,Steven Spielberg,115
+178,The African Queen,Adventure,1952,91,7.6,John Huston,105
+179,The Triplets of Belleville,Adventure,2003,91,7.7,Sylvain Chomet,78
+180,The Queen,Biography,2006,91,6.7,Stephen Frears,103
+181,Flee,Biography,2021,91,7.5,Jonas Poher Rasmussen,89
+182,All Quiet on the Western Front,Drama,1930,91,8.6,Lewis Milestone,136
+183,The Ladykillers,Comedy,1956,91,7.7,Alexander Mackendrick,91
+184,Young Mr. Lincoln,Biography,1939,91,8.0,John Ford,100
+185,Stories We Tell,Documentary,2013,91,8.3,Sarah Polley,108
+186,The Act of Killing,History,2013,91,8.4,Anonymous and Christine Cynn and Joshua Oppenheimer,115
+187,On the Waterfront,Drama,1954,91,8.7,Elia Kazan,108
+188,Jafar Panahi's Taxi,Drama,2015,91,7.1,Jafar Panahi,82
+189,Ida,Drama,2014,91,7.5,Pawel Pawlikowski,82
+190,Beau Travail,Drama,2000,91,7.6,Claire Denis,90
+191,Her,Sci-Fi,2013,91,8.6,Spike Jonze,126
+192,Uncut Gems,Drama,2019,91,7.2,Ben Safdie and Joshua Safdie,135
+193,Waltz with Bashir,Biography,2008,91,7.9,Ari Folman,90
+195,"This Is Not a Burial, It's a Resurrection",Drama,2021,91,6.2,Lemohang Jeremiah Mosese,120
+196,They Shall Not Grow Old,History,2018,91,8.5,Peter Jackson,99
+197,Secrets & Lies,Drama,1996,91,8.2,Mike Leigh,136
+198,Memoria,Sci-Fi,2021,91,6.6,Apichatpong Weerasethakul,136
+199,Patton,Biography,1970,91,8.3,Franklin J. Schaffner,172
+200,The Favourite,Biography,2018,91,7.7,Giorgos Lanthimos,119
+201,The Sweet Hereafter,Drama,1997,91,8.1,Atom Egoyan,112
+202,The Right Stuff,Adventure,1983,91,8.0,Philip Kaufman,193
+203,Bambi,Drama,1942,91,7.7,Bill Roberts and David Hand and Graham Heid and James Algar and Norman Wright and Paul Satterfield and Samuel Armstrong,70
+204,Bringing Up Baby,Comedy,1938,91,7.5,Howard Hawks,102
+205,The Gatekeepers,Documentary,2013,91,6.8,Dror Moreh,101
+206,Nostalgia for the Light,Drama,2011,91,8.1,Patricio Guzmán,90
+208,Saving Private Ryan,Action,1998,91,8.8,Steven Spielberg,169
+209,Burning,Drama,2018,90,7.8,Chang-dong Lee,148
+210,The Worst Person in the World,Drama,2022,90,7.7,Joachim Trier,121
+211,Ben-Hur,Adventure,1959,90,8.4,William Wyler,212
+212,After Hours,Thriller,1985,90,8.0,Martin Scorsese,97
+213,The Crying Game,Thriller,1992,90,7.5,Neil Jordan,112
+214,Great Expectations,Adventure,1947,90,8.0,David Lean,118
+215,Winter's Bone,Drama,2010,90,7.3,Debra Granik,100
+216,Gett: The Trial of Viviane Amsalem,Drama,2015,90,7.7,Ronit Elkabetz and Shlomi Elkabetz,115
+217,I Called Him Morgan,Drama,2017,90,6.5,Kasper Collin,92
+218,Close Encounters of the Third Kind,Adventure,1977,90,7.8,Steven Spielberg,135
+219,The Godfather: Part II,Drama,1974,90,9.2,Francis Ford Coppola,200
+221,The Hustler,Drama,1961,90,8.2,Robert Rossen,134
+222,L.A. Confidential,Drama,1997,90,8.6,Curtis Hanson,138
+223,Procession,Documentary,2021,90,6.1,Robert Greene,116
+224,Bloody Sunday,Drama,2002,90,8.4,Paul Greengrass,107
+225,My Voyage to Italy,Documentary,2001,90,7.1,Martin Scorsese,246
+226,Phantom Thread,Drama,2017,90,7.8,Paul Thomas Anderson,130
+227,Goodfellas,Biography,1990,90,8.7,Martin Scorsese,146
+228,Wojnarowicz,Documentary,2021,90,2.5,Chris McKim,105
+229,Hamilton,Biography,2020,90,7.6,Thomas Kail,160
+230,Paths of the Soul,Drama,2016,90,5.5,Yang Zhang,115
+231,It's Such a Beautiful Day,Sci-Fi,2012,90,8.0,Don Hertzfeldt,62
+232,My Perestroika,Biography,2011,90,7.3,Robin Hessman,88
+233,This Is Not a Film,Documentary,2012,90,6.3,Jafar Panahi and Mojtaba Mirtahmasb,75
+234,The Birds,Drama,1963,90,7.8,Alfred Hitchcock,119
+236,Finding Nemo,Adventure,2003,90,8.7,Andrew Stanton and Lee Unkrich,100
+237,Topsy-Turvy,Biography,1999,90,8.0,Mike Leigh,160
+238,Samurai Rebellion,Drama,1967,90,5.9,Masaki Kobayashi,128
+239,King Kong,Adventure,1933,90,8.2,Ernest B. Schoedsack and Merian C. Cooper,100
+240,The Incredibles,Action,2004,90,8.8,Brad Bird,115
+241,Before Sunset,Drama,2004,90,8.6,Richard Linklater,80
+242,Being John Malkovich,Drama,1999,90,8.7,Spike Jonze,112
+243,A Prophet,Drama,2010,90,8.5,Jacques Audiard,155
+244,Hard to Be a God,Sci-Fi,2015,90,5.4,Aleksei German,170
+245,Almost Famous,Drama,2000,90,6.1,Cameron Crowe,122
+246,Paths of Glory,Drama,1957,90,8.3,Stanley Kubrick,88
+247,Cold War,Drama,2018,90,7.9,Pawel Pawlikowski,89
+248,Big Men,Documentary,2014,90,7.4,Rachel Boynton,99
+249,American Splendor,Biography,2003,90,7.8,Robert Pulcini and Shari Springer Berman,101
+250,Hannah and Her Sisters,Drama,1986,90,8.0,Woody Allen,103
+251,The Circus,Comedy,1929,90,8.1,Charles Chaplin,72
+252,The Tale,Drama,2018,90,7.3,Jennifer Fox,114
+253,Licorice Pizza,Drama,2021,90,6.6,Paul Thomas Anderson,133
+254,Paterson,Drama,2016,90,7.9,Jim Jarmusch,118
+255,Gosford Park,Drama,2001,90,7.3,Robert Altman,137
+256,The Fits,Drama,2016,90,6.6,Anna Rose Holmer,72
+257,The Souvenir: Part II,Drama,2021,90,5.9,Joanna Hogg,107
+258,Mad Max: Fury Road,Action,2015,90,8.5,George Miller,120
+259,United 93,Drama,2006,90,7.5,Paul Greengrass,111
+260,Capturing the Friedmans,Biography,2003,90,8.0,Andrew Jarecki,107
+261,The Truman Show,Drama,1998,90,6.7,Peter Weir,103
+262,American Hustle,Drama,2013,90,7.3,David O. Russell,138
+263,Star Wars: Episode IV - A New Hope,Action,1977,90,8.8,George Lucas,121
+264,Persepolis,Biography,2007,90,8.5,Marjane Satrapi and Vincent Paronnaud,96
+265,The Age of Innocence,Drama,1993,90,7.9,Martin Scorsese,139
+266,The Best of Youth,Drama,2005,89,8.8,Marco Tullio Giordana,180
+267,Who We Are: A Chronicle of Racism in America,Documentary,2022,89,3.8,Emily Kunstler and Sarah Kunstler,117
+268,The Overnighters,Drama,2014,89,7.5,Jesse Moss,102
+269,The Lives of Others,Drama,2006,89,8.7,Florian Henckel von Donnersmarck,137
+271,House of Flying Daggers,Action,2004,89,8.8,Yimou Zhang,119
+272,63 Up,Documentary,2019,89,7.2,Michael Apted,180
+273,Minding the Gap,Documentary,2018,89,8.1,Bing Liu,93
+275,Lost in Translation,Drama,2003,89,7.5,Sofia Coppola,102
+276,Blue Is the Warmest Color,Drama,2013,89,7.8,Abdel Kechiche,179
+277,Searching for Bobby Fischer,Biography,1993,89,7.3,Steven Zaillian,109
+279,Assault on Precinct 13,Action,1976,89,7.5,John Carpenter,91
+280,Man on Wire,Crime,2008,89,8.2,James Marsh,94
+281,For Sama,Documentary,2019,89,7.7,Edward Watts and Waad Al-Khateab,100
+284,Still Walking,Drama,2009,89,8.5,Hirokazu Koreeda,114
+285,The Last Detail,Drama,1973,89,7.6,Hal Ashby,104
+287,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Comedy,2006,89,7.4,Larry Charles,84
+288,Minari,Drama,2020,89,8.0,Lee Isaac Chung,115
+289,Barry Lyndon,Adventure,1975,89,8.6,Stanley Kubrick,184
+290,The Farewell,Drama,2019,89,8.2,Lulu Wang,100
+291,Elle,Drama,2016,89,7.2,Paul Verhoeven,130
+292,Uncertain,Drama,2017,89,8.5,Anna Sandilands and Ewan McNicol,82
+294,"Two Days, One Night",Drama,2014,89,8.5,Jean-Pierre Dardenne and Luc Dardenne,95
+295,Great Freedom,Drama,2022,89,6.4,Sebastian Meise,116
+296,Eighth Grade,Drama,2018,89,7.9,Bo Burnham,93
+297,A Star Is Born,Drama,1954,89,8.2,George Cukor,154
+298,First Cow,Drama,2020,89,7.0,Kelly Reichardt,122
+299,No End in Sight,War,2007,89,8.2,Charles Ferguson,102
+300,It's a Wonderful Life,Drama,1947,89,8.5,Frank Capra,130
+301,The Madness of King George,Biography,1994,89,7.4,Nicholas Hytner,104
+302,Phoenix,Drama,2015,89,7.8,Christian Petzold,98
+303,Goodbye Solo,Drama,2009,89,7.5,Ramin Bahrani,91
+304,Gunda,Documentary,2020,89,7.1,Victor Kossakovsky,93
+305,Western,Western,2015,89,7.1,Bill Ross IV and Turner Ross,92
+306,The Power of the Dog,Drama,2021,89,6.5,Jane Campion,125
+307,Stop Making Sense,Music,1984,89,8.6,Jonathan Demme,88
+308,Deep Red,Mystery,1976,89,8.2,Dario Argento,126
+309,Downhill Racer,Drama,1969,89,8.0,Michael Ritchie,101
+310,Columbus,Drama,2017,89,7.4,Kogonada,100
+311,Night of the Living Dead,Horror,1968,89,8.0,George A. Romero,96
+312,The Artist,Romance,2011,89,8.1,Michel Hazanavicius,100
+314,Raging Bull,Biography,1980,89,7.1,Martin Scorsese,129
+315,Eternal Sunshine of the Spotless Mind,Drama,2004,89,8.8,Michel Gondry,108
+316,The Piano,Drama,1993,89,8.0,Jane Campion,121
+319,Zama,Drama,2018,89,7.4,Lucrecia Martel,115
+320,Dick Johnson Is Dead,Drama,2020,89,7.5,Kirsten Johnson,89
+321,Rebel Without a Cause,Drama,1955,89,7.6,Nicholas Ray,111
+322,Letters from Iwo Jima,Drama,2006,89,8.2,Clint Eastwood,141
+323,A Woman Under the Influence,Drama,1974,88,7.8,John Cassavetes,155
+324,Whiplash,Drama,2014,88,8.9,Damien Chazelle,107
+325,Ghost World,Drama,2001,88,8.1,Terry Zwigoff,111
+326,Once,Drama,2007,88,8.1,John Carney,85
+327,Foreign Correspondent,Mystery,1940,88,7.5,Alfred Hitchcock,120
+329,The Arbor,Biography,2011,88,7.6,Clio Barnard,94
+330,Long Day's Journey Into Night,Drama,2019,88,7.1,Gan Bi,138
+333,The Lion King,Adventure,1994,88,8.8,Rob Minkoff and Roger Allers,89
+334,4 Little Girls,History,1997,88,7.6,Spike Lee,102
+335,Wild Strawberries,Drama,1959,88,8.0,Ingmar Bergman,91
+337,The Seventh Seal,Drama,1958,88,8.3,Ingmar Bergman,96
+339,Azor,Drama,2021,88,6.2,Andreas Fontana,100
+340,Y Tu Mamá También,Drama,2002,88,6.7,Alfonso Cuarón,106
+341,Paddington 2,Adventure,2018,88,8.3,Paul King,103
+342,The Little Mermaid,Fantasy,1989,88,7.7,John Musker and Ron Clements,83
+343,City Hall,Documentary,2020,88,5.6,Frederick Wiseman,272
+344,Capote,Biography,2005,88,7.7,Bennett Miller,114
+345,The Death of Stalin,Biography,2018,88,7.4,Armando Iannucci,107
+346,Miracle on 34th Street,Drama,1947,88,7.8,George Seaton,96
+347,Strangers on a Train,Thriller,1951,88,8.7,Alfred Hitchcock,101
+348,Tulpan,Drama,2009,88,6.3,Sergei Dvortsevoy,100
+349,Manuscripts Don't Burn,Drama,2014,88,5.8,Mohammad Rasoulof,125
+350,In Transit,Documentary,2017,88,4.8,Albert Maysles and Benjamin Wu and David Usui and Lynn True and Nelson Walker III,76
+351,"Three Billboards Outside Ebbing, Missouri",Drama,2017,88,7.8,Martin McDonagh,115
+352,Quest,Music,2017,88,7.2,Jonathan Olshefski,104
+353,Au Revoir les Enfants,Drama,1988,88,7.8,Louis Malle,104
+354,A Film Unfinished,Drama,2010,88,7.7,Yael Hersonski,88
+355,Things to Come,Drama,2016,88,6.9,Mia Hansen-Løve,102
+356,The Grand Budapest Hotel,Drama,2014,88,8.4,Wes Anderson,100
+357,Winter Sleep,Drama,2014,88,8.5,Nuri Bilge Ceylan,196
+358,A Star Is Born,Drama,2018,88,8.4,Bradley Cooper,136
+359,Citizenfour,Documentary,2014,88,7.6,Laura Poitras,114
+360,Time Out,Drama,2002,88,6.9,Laurent Cantet,134
+361,The Blue Angel (re-release),Drama,2001,88,7.8,Josef von Sternberg,124
+362,Thelma & Louise,Drama,1991,88,8.2,Ridley Scott,130
+363,Away from Her,Drama,2007,88,8.0,Sarah Polley,110
+364,The Fallen Idol (re-release),Drama,2006,88,6.8,Carol Reed,95
+365,The Father,Drama,2021,88,8.6,Florian Zeller,97
+367,Foxtrot,Drama,2017,88,7.3,Samuel Maoz,108
+368,Howards End,Drama,1992,88,8.1,James Ivory,140
+369,The Innocents,Horror,1961,88,6.5,Jack Clayton,100
+370,Inside Job,Documentary,2010,88,8.4,Charles Ferguson,120
+371,Sweet Country,Adventure,2018,88,7.1,Warwick Thornton,113
+372,Leave No Trace,Drama,2018,88,7.6,Debra Granik,109
+373,Three Colors: White,Drama,1994,88,8.2,Krzysztof Kieslowski,91
+374,Chicken Run,Comedy,2000,88,8.0,Nick Park and Peter Lord,84
+375,The King's Speech,Drama,2010,88,8.3,Tom Hooper,118
+376,Parallel Mothers,Drama,2021,88,7.3,Pedro Almodóvar,120
+377,Hell or High Water,Drama,2016,88,8.1,David Mackenzie,102
+378,Up,Adventure,2009,88,8.7,Bob Peterson and Pete Docter,96
+379,Shirkers,Documentary,2018,88,7.5,Sandi Tan,97
+380,Mildred Pierce,Drama,1945,88,7.7,Michael Curtiz,111
+381,45365,Documentary,2010,88,7.4,Bill Ross IV and Turner Ross,90
+382,Tootsie,Drama,1982,88,8.0,Sydney Pollack,116
+383,To Kill a Mockingbird,Drama,1962,88,8.5,Robert Mulligan,129
+384,Aquarius,Drama,2016,88,8.6,Kleber Mendonça Filho,142
+386,Apollo 11,History,2019,88,8.2,Todd Douglas Miller,93
+387,Anomalisa,Drama,2015,88,7.5,Charlie Kaufman and Duke Johnson,90
+388,Toy Story 2,Adventure,1999,88,8.7,Ash Brannon and John Lasseter and Lee Unkrich,92
+389,Black Panther,Action,2018,88,6.3,Ryan Coogler,134
+390,The Human Voice,Drama,2021,88,6.6,Pedro Almodóvar,30
+391,Brooklyn,Drama,2015,88,7.9,John Crowley,111
+392,Nobody Knows,Drama,2005,88,8.5,Hirokazu Koreeda,141
+393,Life Is Sweet,Drama,1991,88,7.0,Mike Leigh,103
+395,Mary Poppins,Fantasy,1964,88,8.0,Robert Stevenson,139
+396,The Lord of the Rings: The Two Towers,Action,2002,87,9.0,Peter Jackson,179
+397,Jane Fonda in Five Acts,Documentary,2018,87,6.3,Susan Lacy,133
+398,The Conversation,Drama,1974,87,8.4,Francis Ford Coppola,113
+399,Newtown,Documentary,2016,87,8.3,Kim A. Snyder,85
+400,Poetry,Drama,2011,87,8.0,Chang-dong Lee,139
+401,Restless Creature: Wendy Whelan,Documentary,2017,87,4.0,Adam Schlesinger and Linda Saffire,90
+402,Little Women,Drama,1994,87,7.7,Gillian Armstrong,115
+403,Shakespeare in Love,Drama,1998,87,7.1,John Madden,123
+404,The Awful Truth,Comedy,1937,87,8.0,Leo McCarey,90
+405,Can You Ever Forgive Me?,Biography,2018,87,7.6,Marielle Heller,106
+406,Wolfwalkers,Adventure,2020,87,8.7,Ross Stewart and Tomm Moore,103
+407,It Happened One Night,Comedy,1934,87,8.3,Frank Capra,105
+409,The Missing Picture,Documentary,2013,87,7.6,Rithy Panh,92
+410,"I Travel Because I Have to, I Come Back Because I Love You",Drama,2011,87,7.6,Karim Ainouz and Marcelo Gomes,75
+411,The Invisible Man,Sci-Fi,1933,87,7.4,James Whale,71
+412,Scarface,Action,1932,87,5.5,Howard Hawks and Richard Rosson,93
+413,Of Men and War,History,2015,87,8.3,Laurent Bécue-Renard,142
+414,The Long Goodbye,Drama,1973,87,7.3,Robert Altman,112
+417,Pain and Glory,Drama,2019,87,8.0,Pedro Almodóvar,113
+419,The Farthest,History,2017,87,6.7,Emer Reynolds,121
+420,Gomorrah,Drama,2009,87,7.2,Matteo Garrone,137
+422,To Be and to Have,Family,2003,87,7.7,Nicolas Philibert,104
+423,RRR,Action,2022,87,7.5,S.S. Rajamouli,187
+425,Halloween,Thriller,1978,87,8.8,John Carpenter,91
+426,Eraserhead,Horror,1978,87,7.8,David Lynch,89
+427,The Velvet Underground,Music,2021,87,7.4,Todd Haynes,121
+429,Attica,Documentary,2021,87,6.3,Stanley Nelson,118
+433,Fire at Sea,Documentary,2016,87,7.0,Gianfranco Rosi,114
+434,The Fugitive,Action,1993,87,8.7,Andrew Davis,130
+435,F for Fake,Documentary,1975,87,7.5,François Reichenbach and Gary Graver and Oja Kodar and Orson Welles,89
+436,The Bridge on the River Kwai,Adventure,1957,87,8.4,David Lean,161
+437,Goldfinger,Action,1965,87,8.3,Guy Hamilton,110
+438,Ma Rainey's Black Bottom,Drama,2020,87,6.7,George C. Wolfe,94
+439,One False Move,Drama,1992,87,7.8,Carl Franklin,105
+440,En el Séptimo Día (On the Seventh Day),Drama,2018,87,7.5,Jim McKay,92
+441,Jane,Biography,2017,87,8.3,Brett Morgen,90
+442,Jaws,Adventure,1975,87,8.7,Steven Spielberg,124
+443,About Endlessness,Drama,2021,87,6.3,Roy Andersson,78
+444,Back to the Future,Adventure,1985,87,8.9,Robert Zemeckis,116
+445,Hope,Drama,2021,87,6.9,Maria Sødahl,130
+446,If Beale Street Could Talk,Drama,2018,87,7.1,Barry Jenkins,119
+447,My Journey Through French Cinema,Documentary,2017,87,4.1,Bertrand Tavernier,201
+448,Wallace & Gromit: The Curse of the Were-Rabbit,Adventure,2005,87,8.2,Nick Park and Steve Box,85
+449,The Diary of a Teenage Girl,Drama,2015,87,6.5,Marielle Heller,102
+450,Elena,Drama,2012,87,7.5,Andrei Zvyagintsev,109
+451,All Is Lost,Action,2013,87,6.6,J.C. Chandor,106
+452,Hereditary,Drama,2018,87,6.6,Ari Aster,127
+453,Listen to Me Marlon,Biography,2015,87,8.3,Stevan Riley,103
+454,Serpico (re-release),Biography,2004,87,8.4,Sidney Lumet,130
+456,Maria Full of Grace,Drama,2004,87,2.6,Joshua Marston,101
+457,Fateless,Drama,2006,87,7.6,Lajos Koltai,140
+458,Happy as Lazzaro,Drama,2018,87,7.9,Alice Rohrwacher,125
+459,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,War,2003,87,7.5,Errol Morris,95
+460,Uncle Boonmee Who Can Recall His Past Lives,Fantasy,2011,87,7.1,Apichatpong Weerasethakul,114
+461,Brokeback Mountain,Drama,2005,87,8.2,Ang Lee,134
+462,Cemetery of Splendor,Drama,2016,87,6.5,Apichatpong Weerasethakul,122
+463,The Kid with a Bike,Drama,2012,87,7.5,Jean-Pierre Dardenne and Luc Dardenne,87
+464,Mutiny on the Bounty,Adventure,1935,87,8.2,Frank Lloyd,132
+465,Spider-Man: Into the Spider-Verse,Action,2018,87,8.2,Bob Persichetti and Peter Ramsey and Rodney Rothman,117
+466,The Wicker Man,Mystery,1974,87,7.6,Robin Hardy,88
+467,The Tragedy of Macbeth,Drama,2021,87,7.1,Joel Coen,105
+468,Particle Fever,Documentary,2014,87,8.1,Mark Levinson,99
+469,Tarnation,Documentary,2004,87,7.1,Jonathan Caouette,88
+471,Murderball,Sport,2005,87,8.4,Dana Adam Shapiro and Henry Alex Rubin,88
+472,Life Itself,Biography,2014,87,8.3,Steve James and Steve James,120
+473,The Shape of Water,Adventure,2017,87,7.0,Guillermo del Toro,123
+474,Rewind,Drama,2020,87,6.7,Sasha Joseph Neulinger,86
+475,Shine,Biography,1996,87,8.2,Scott Hicks,105
+476,Bisbee '17,Western,2018,87,5.1,Robert Greene,112
+477,Grizzly Man,Biography,2005,87,7.2,Werner Herzog,103
+478,Adam's Rib,Drama,1949,87,8.0,George Cukor,101
+479,Dirty Harry,Action,1971,87,8.2,Don Siegel,102
+480,Gregory Crewdson: Brief Encounters,Biography,2012,87,6.7,Ben Shapiro,78
+481,Moneyball,Drama,2011,87,7.9,Bennett Miller,133
+482,The Autobiography of Nicolae Ceausescu,Documentary,2011,87,4.0,Andrei Ujica,180
+483,All About My Mother,Drama,1999,87,8.5,Pedro Almodóvar,101
+484,The English Patient,Drama,1996,87,7.2,Anthony Minghella,162
+485,The Duke of Burgundy,Drama,2015,87,7.0,Peter Strickland,104
+486,My Golden Days,Drama,2016,87,6.8,Arnaud Desplechin,123
+487,Nebraska,Adventure,2013,87,8.0,Alexander Payne,115
+488,What the Constitution Means to Me,Drama,2020,87,8.2,Marielle Heller,100
+490,Force Majeure,Drama,2014,87,7.6,Ruben Östlund,120
+491,Tampopo,Comedy,1987,87,8.5,Jûzô Itami,114
+492,Blow Out,Mystery,1981,86,8.1,Brian De Palma,107
+493,Diane,Drama,2019,86,7.1,Kent Jones,95
+494,The Magician,Drama,1959,86,7.5,Ingmar Bergman,101
+495,The Thin Man,Mystery,1934,86,7.7,W.S. Van Dyke,91
+496,Russian Ark,Drama,2002,86,7.6,Aleksandr Sokurov,99
+497,Point Blank,Drama,1967,86,6.8,John Boorman,92
+499,Lincoln,Biography,2012,86,7.5,Steven Spielberg,150
+500,The Wolf House,Drama,2020,86,8.2,Cristóbal León and Joaquín Cociña,75
+501,An Elephant Sitting Still,Drama,2019,86,8.2,Bo Hu,230
+502,Room,Drama,2015,86,8.3,Lenny Abrahamson,118
+503,The Tillman Story,Documentary,2010,86,7.3,Amir Bar-Lev,94
+504,The Wind Will Carry Us,Drama,2000,86,7.7,Abbas Kiarostami,118
+505,The Remains of the Day,Drama,1993,86,8.4,James Ivory,134
+506,"sex, lies, and videotape",Drama,1989,86,7.8,Steven Soderbergh,100
+507,Dog Day Afternoon,Biography,1975,86,8.6,Sidney Lumet,125
+508,To Be or Not to Be,Comedy,1942,86,7.7,Ernst Lubitsch,99
+509,Like Water for Chocolate,Drama,1993,86,7.0,Alfonso Arau,105
+510,Ordinary People,Drama,1980,86,6.5,Robert Redford,124
+511,Divine Love,Sci-Fi,2020,86,7.3,Gabriel Mascaro,101
+513,Stand Clear of the Closing Doors,Drama,2014,86,6.8,Sam Fleischner,102
+514,Heavenly Creatures,Biography,1994,86,8.3,Peter Jackson,99
+515,Dreamcatcher,Crime,2015,86,6.3,Kim Longinotto,98
+517,To Die For,Thriller,1995,86,8.5,Gus Van Sant,106
+518,The Deer Hunter,Drama,1978,86,7.6,Michael Cimino,182
+519,Million Dollar Baby,Drama,2004,86,7.5,Clint Eastwood,132
+520,42: Forty Two Up,Biography,1999,86,6.3,Michael Apted,139
+521,The Straight Story,Adventure,1999,86,8.3,David Lynch,112
+522,Last Days in Vietnam,History,2014,86,7.9,Rory Kennedy,98
+523,Krisha,Drama,2016,86,7.9,Trey Edward Shults,83
+524,Dawson City: Frozen Time,History,2017,86,6.1,Bill Morrison,120
+525,Shadows,Drama,1959,86,6.3,John Cassavetes,81
+526,Rebecca,Drama,1940,86,8.3,Alfred Hitchcock,130
+527,Cameraperson,Documentary,2016,86,7.0,Kirsten Johnson,102
+529,The Inheritance,Drama,2021,86,4.2,Ephraim Asili,100
+530,The Babadook,Drama,2014,86,8.4,Jennifer Kent,93
+531,Little Men,Drama,2016,86,7.7,Ira Sachs,85
+532,The Kids Are All Right,Drama,2010,86,7.2,Lisa Cholodenko,106
+533,Boys Don't Cry,Drama,1999,86,7.6,Kimberly Peirce,118
+534,Dead Ringers,Drama,1988,86,5.3,David Cronenberg,116
+535,Welcome to Chechnya,Documentary,2020,86,7.7,David France,107
+536,The Great Escape,Adventure,1963,86,8.4,John Sturges,172
+537,Manakamana,Documentary,2014,86,4.9,Pacho Velez and Stephanie Spray,118
+538,Mission: Impossible – Fallout,Action,2018,86,8.3,Christopher McQuarrie,147
+539,Rushmore,Drama,1998,86,8.5,Wes Anderson,93
+540,Cave of Forgotten Dreams,History,2011,86,6.8,Werner Herzog,89
+541,My Neighbor Totoro,Fantasy,1988,86,8.6,Hayao Miyazaki,86
+543,King of the Hill,Drama,1993,86,8.0,Steven Soderbergh,103
+544,The Red Turtle,Fantasy,2017,86,7.8,Michael Dudok de Wit,80
+545,Hope and Glory,Drama,1988,86,8.5,John Boorman,113
+546,Tangerine,Drama,2015,86,7.4,Sean Baker,88
+547,My Happy Family,Drama,2017,86,7.2,Nana Ekvtimishvili and Simon Gro,120
+548,Chasing Coral,Documentary,2017,86,6.8,Jeff Orlowski,93
+549,How to Survive a Plague,History,2012,86,8.1,David France,120
+550,Loveless,Drama,2017,86,8.0,Andrei Zvyagintsev,127
+551,Ten,Drama,2003,86,8.2,Abbas Kiarostami,94
+552,I'm Going Home,Drama,2002,86,7.3,Manoel de Oliveira,90
+553,In the Bedroom,Drama,2001,86,7.5,Todd Field,130
+554,A Fantastic Woman,Drama,2017,86,7.0,Sebastián Lelio,104
+555,Barbara,Drama,2012,86,7.0,Christian Petzold,105
+556,Of Gods and Men,Drama,2011,86,6.9,Xavier Beauvois,120
+557,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,Biography,2019,86,8.4,Martin Scorsese,142
+558,One Cut of the Dead,Horror,2019,86,8.0,Shin'ichirô Ueda,96
+559,Museo,Drama,2018,86,7.6,Alonso Ruiz Palacios,128
+560,Nobody's Fool,Drama,1995,86,8.3,Robert Benton,110
+561,Stranger Than Paradise,Drama,1984,86,6.5,Jim Jarmusch,89
+562,Bonnie and Clyde,Biography,1967,86,8.2,Arthur Penn,112
+563,The Beaches of Agnès,Biography,2009,86,7.1,Agnès Varda,110
+564,Das Boot,Action,1982,86,7.1,Wolfgang Petersen,149
+565,West Side Story,Drama,1961,86,7.6,Jerome Robbins and Robert Wise,153
+566,Deliver Us from Evil,Crime,2006,86,7.9,Amy Berg,101
+567,Maidan,Documentary,2014,86,6.0,Sergei Loznitsa,134
+568,Drug War,Action,2013,86,7.1,Johnnie To,107
+569,The Great Beauty,Drama,2013,86,8.0,Paolo Sorrentino,142
+570,The Odd Couple,Comedy,1968,86,8.1,Gene Saks,105
+571,Vitalina Varela,Drama,2020,86,6.9,Pedro Costa,124
+573,Black Mother,Documentary,2019,86,3.9,Khalik Allah,77
+574,The Big Sick,Drama,2017,86,7.1,Michael Showalter,120
+575,Argo,Drama,2012,86,7.6,Ben Affleck,120
+576,Our Daily Bread,Documentary,2006,86,7.8,Nikolaus Geyrhalter,92
+577,The Umbrellas of Cherbourg (re-released),Drama,2004,86,8.0,Jacques Demy,91
+578,Talk to Her,Drama,2002,86,8.2,Pedro Almodóvar,112
+579,Under the Sand,Drama,2001,86,7.4,François Ozon,92
+580,Traffic,Drama,2000,86,8.8,Steven Soderbergh,147
+581,The Grifters,Drama,1990,86,8.1,Stephen Frears,110
+582,The Master,Drama,2012,86,7.3,Paul Thomas Anderson,144
+583,The Death of Mr. Lazarescu,Drama,2006,86,8.1,Cristi Puiu,150
+584,The Wild Pear Tree,Drama,2019,86,7.9,Nuri Bilge Ceylan,188
+585,Nausicaä of the Valley of the Wind,Adventure,1985,86,8.5,Hayao Miyazaki,117
+586,Aladdin,Adventure,1992,86,8.7,John Musker and Ron Clements,90
+587,Los Angeles Plays Itself,History,2004,86,8.3,Thom Andersen,169
+588,This Is England,Drama,2007,86,7.8,Shane Meadows,101
+589,Wheel of Fortune and Fantasy,Drama,2021,86,7.8,Ryûsuke Hamaguchi,121
+590,City of Ghosts,War,2017,86,6.4,Matthew Heineman,92
+592,Sweet Sixteen,Drama,2003,86,8.1,Ken Loach,106
+593,The Player,Drama,1992,86,8.1,Robert Altman,124
+594,Ponyo,Adventure,2009,86,7.7,Hayao Miyazaki,101
+595,Strong Island,Documentary,2017,86,5.9,Yance Ford,107
+596,The Interrupters,Documentary,2011,86,6.8,Steve James,125
+597,Ernest & Célestine,Drama,2014,86,7.7,Benjamin Renner and Stéphane Aubier and Vincent Patar,80
+598,American Factory,Documentary,2019,86,7.7,Julia Reichert and Steven Bognar,115
+599,Z,Drama,1969,86,7.0,Costa-Gavras,127
+600,Black Narcissus,Drama,1947,86,6.0,Emeric Pressburger and Michael Powell,101
+601,Only Angels Have Wings,Adventure,1939,86,7.3,Howard Hawks,121
+602,Baby Driver,Action,2017,86,7.8,Edgar Wright,112
+604,Beasts of the Southern Wild,Drama,2012,86,7.5,Benh Zeitlin,93
+605,Let the Fire Burn,Drama,2013,86,7.4,Jason Osder,88
+606,Last Train Home,Drama,2010,86,7.9,Lixin Fan,85
+607,Andy Warhol: A Documentary Film,Documentary,2006,86,8.3,Ric Burns,240
+608,The Lost Daughter,Drama,2021,86,6.2,Maggie Gyllenhaal,121
+609,Persona,Drama,1967,86,7.7,Ingmar Bergman,85
+611,The Double Life of Veronique,Drama,1991,86,8.0,Krzysztof Kieslowski,98
+612,Flight of the Red Balloon,Drama,2008,86,5.7,Hsiao-hsien Hou,115
+613,Fargo,Drama,1996,85,8.6,Ethan Coen and Joel Coen,98
+615,Say Anything...,Drama,1989,85,8.2,Cameron Crowe,100
+616,Walkabout,Adventure,1971,85,7.7,Nicolas Roeg,100
+617,Before Night Falls,Biography,2000,85,6.8,Julian Schnabel,133
+619,The First Wave,Drama,2021,85,7.2,Matthew Heineman,94
+620,Judas and the Black Messiah,Biography,2021,85,7.4,Shaka King,126
+621,Five Easy Pieces,Drama,1970,85,7.8,Bob Rafelson,98
+622,The Bourne Ultimatum,Action,2007,85,7.6,Paul Greengrass,115
+623,Raiders of the Lost Ark,Action,1981,85,8.9,Steven Spielberg,115
+624,Harry Potter and the Deathly Hallows: Part 2,Adventure,2011,85,8.2,David Yates,130
+625,Athlete A,Crime,2020,85,7.0,Bonni Cohen and Jon Shenk,103
+626,Tea with the Dames,Documentary,2018,85,7.5,Roger Michell,84
+627,Take Shelter,Drama,2011,85,7.8,Jeff Nichols,120
+628,The Salesman,Drama,2017,85,7.5,Asghar Farhadi,124
+629,The Pianist,Biography,2002,85,7.9,Roman Polanski,150
+630,Children Underground,Documentary,2001,85,7.6,Edet Belzberg,104
+631,You Can Count on Me,Drama,2000,85,8.4,Kenneth Lonergan,111
+632,Boogie Nights,Drama,1997,85,4.2,Paul Thomas Anderson,155
+633,City of Life and Death,Drama,2011,85,7.9,Chuan Lu,132
+634,West Side Story,Drama,2021,85,7.1,Steven Spielberg,156
+635,Song of the Sea,Fantasy,2014,85,8.3,Tomm Moore,93
+636,Amy,Biography,2015,85,8.3,Asif Kapadia,128
+637,The Edge of Heaven,Drama,2008,85,8.6,Fatih Akin,116
+638,The Savages,Drama,2007,85,7.5,Tamara Jenkins,113
+639,Birds of Passage,Drama,2019,85,7.8,Ciro Guerra and Cristina Gallego,125
+640,Ilo Ilo,Drama,2014,85,7.7,Anthony Chen,99
+641,First Reformed,Drama,2018,85,7.4,Paul Schrader,113
+642,Lebanon,Drama,2010,85,6.4,Samuel Maoz,93
+643,To the Ends of the Earth,Drama,2020,85,7.3,Kiyoshi Kurosawa,120
+644,Ash Is Purest White,Drama,2019,85,7.1,Zhang Ke Jia,136
+645,The Treasure,Comedy,2016,85,7.0,Corneliu Porumboiu,89
+646,Varda by Agnès,Biography,2019,85,7.0,Agnès Varda and Didier Rouget,115
+647,Atlantics,Drama,2019,85,6.2,Mati Diop,104
+648,I Am Another You,Documentary,2017,85,4.5,Nanfu Wang,80
+649,Night Will Fall,History,2014,85,7.9,Andre Singer,75
+650,The Endurance,History,2001,85,8.5,George Butler,97
+651,Exit Through the Gift Shop,Comedy,2010,85,8.1,Banksy,87
+652,The Novice,Thriller,2021,85,6.5,Lauren Hadaway,94
+653,Girlhood,Drama,2015,85,7.1,Céline Sciamma,113
+654,In the Mood for Love,Drama,2001,85,7.9,Kar Wai Wong,98
+656,Offside,Drama,2007,85,7.9,Jafar Panahi,93
+657,The Ornithologist,Adventure,2017,85,5.9,João Pedro Rodrigues,117
+658,El Dorado,Drama,1967,85,6.5,Howard Hawks,126
+659,Sleeping Beauty,Fantasy,1959,85,7.9,Clyde Geronimi,75
+662,Easy Rider,Drama,1969,85,7.6,Dennis Hopper,95
+663,Knocked Up,Comedy,2007,85,6.7,Judd Apatow,129
+664,The Quiet Man,Drama,1952,85,6.8,John Ford,129
+665,"Distant Voices, Still Lives",Drama,1988,85,7.7,Terence Davies,85
+666,Turtles Can Fly,Drama,2005,85,8.3,Bahman Ghobadi,98
+667,The Departed,Mystery,2006,85,6.9,Martin Scorsese,151
+668,April and the Extraordinary World,Adventure,2016,85,7.5,Christian Desmares and Franck Ekinci,105
+669,Festival Express,History,2004,85,6.2,Bob Smeaton and Frank Cvitanovich,90
+670,"Spring, Summer, Fall, Winter... and Spring",Drama,2004,85,8.4,Ki-duk Kim,103
+671,An Education,Drama,2009,85,7.8,Lone Scherfig,100
+672,Tinker Tailor Soldier Spy,Thriller,2011,85,6.6,Tomas Alfredson,127
+673,Harakiri,Action,1964,85,7.3,Masaki Kobayashi,133
+674,Half Nelson,Drama,2006,85,7.8,Ryan Fleck,106
+675,Vincere,Biography,2010,85,7.0,Marco Bellocchio,128
+676,The Fabulous Baker Boys,Drama,1989,85,8.0,Steve Kloves,114
+677,Street Fight,Documentary,2006,85,6.9,Marshall Curry,83
+678,Before the Devil Knows You're Dead,Drama,2007,85,8.3,Sidney Lumet,117
+680,What Do We See When We Look at the Sky?,Drama,2021,85,7.0,Aleksandre Koberidze,150
+681,Get Out,Mystery,2017,85,7.5,Jordan Peele,104
+682,About Schmidt,Drama,2002,85,7.6,Alexander Payne,125
+684,The Silence of the Lambs,Thriller,1991,85,8.8,Jonathan Demme,118
+686,Hero,Action,2004,85,8.8,Yimou Zhang,99
+687,"Hale County This Morning, This Evening",Documentary,2018,85,6.0,RaMell Ross,76
+688,Neil Young: Heart of Gold,Music,2006,85,8.5,Jonathan Demme,103
+689,Passing,Drama,2021,85,6.7,Rebecca Hall,98
+690,Mudbound,Drama,2017,85,6.7,Dee Rees,134
+691,My Life as a Zucchini,Drama,2017,85,8.3,Claude Barras,70
+692,In the Same Breath,Documentary,2021,85,4.6,Nanfu Wang,95
+693,Atlantis,Sci-Fi,2021,85,6.8,Valentyn Vasyanovych,108
+694,Honeyland,Drama,2019,85,8.6,Ljubomir Stefanov and Tamara Kotevska,90
+695,Hedwig and the Angry Inch,Drama,2001,85,8.4,John Cameron Mitchell,95
+696,The Last Seduction,Drama,1994,85,8.1,John Dahl,110
+697,God's Own Country,Drama,2017,85,8.3,Francis Lee,104
+698,Kaili Blues,Drama,2016,85,7.3,Gan Bi,113
+699,Unforgiven,Drama,1992,85,8.4,Clint Eastwood,131
+700,The Intruder,Drama,2005,85,4.9,Claire Denis,130
+701,Mulholland Dr.,Drama,2001,85,7.0,David Lynch,147
+702,Forbidden Lie$,Drama,2009,85,8.0,Anna Broinowski,104
+703,Behemoth,Documentary,2017,85,5.7,Zhao Liang,95
+704,The Sun,Drama,2009,85,6.8,Aleksandr Sokurov,115
+705,The Past,Drama,2013,85,8.3,Asghar Farhadi,130
+706,Cinderella,Fantasy,1950,85,7.6,Clyde Geronimi and Hamilton Luske and Wilfred Jackson,74
+707,One Child Nation,History,2019,85,6.7,Nanfu Wang and Zhang Lynn,88
+708,24 Hour Party People,Biography,2002,85,8.3,Michael Winterbottom,117
+710,Identifying Features,Drama,2021,85,7.1,Fernanda Valadez,95
+712,Atonement,Drama,2007,85,7.8,Joe Wright,123
+713,The Tree of Life,Drama,2011,85,7.0,Terrence Malick,139
+714,Alexandra,Drama,2008,85,7.3,Aleksandr Sokurov,95
+715,Naked,Drama,1993,85,8.4,Mike Leigh,131
+716,The Host,Sci-Fi,2007,85,6.9,Joon-ho Bong,119
+717,The Departure,Documentary,2017,85,8.5,Lana Wilson,87
+719,Restrepo,War,2010,85,7.5,Sebastian Junger and Tim Hetherington,93
+720,Summer Hours,Drama,2009,85,7.1,Olivier Assayas,103
+721,Grisbi (re-release),Action,2003,85,8.2,Jacques Becker,94
+722,Out of Sight,Thriller,1998,85,8.4,Steven Soderbergh,123
+723,Women on the Verge of a Nervous Breakdown,Drama,1988,85,8.0,Pedro Almodóvar,90
+724,Support the Girls,Comedy,2018,85,6.7,Andrew Bujalski,90
+725,The Iron Giant,Action,1999,85,8.7,Brad Bird,86
+726,Won't You Be My Neighbor?,Biography,2018,85,8.5,Morgan Neville,94
+727,Passing Strange,Musical,2009,85,7.3,Spike Lee,135
+728,Meek's Cutoff,Western,2011,85,6.2,Kelly Reichardt,104
+729,Three Colors: Blue,Drama,1993,85,8.6,Krzysztof Kieslowski,98
+730,The Long Day Closes,Biography,1993,85,6.3,Terence Davies,85
+731,Carrie,Horror,1976,85,8.1,Brian De Palma,98
+734,Since Otar Left,Drama,2004,85,7.7,Julie Bertucelli,103
+735,The Circle,Drama,2001,85,6.1,Jafar Panahi,90
+736,Sound and Fury,Documentary,2000,85,7.0,Josh Aronson,80
+737,Paragraph 175,History,2000,85,7.8,Jeffrey Friedman and Rob Epstein,81
+738,Atlantic City,Drama,1981,85,7.0,Louis Malle,104
+739,Slumdog Millionaire,Drama,2008,84,7.8,Danny Boyle and Loveleen Tandan,120
+740,Black Is King,Music,2020,84,8.7,Beyoncé Knowles,85
+741,Holy Motors,Sci-Fi,2012,84,7.5,Leos Carax,115
+742,The Work,Documentary,2017,84,7.5,Gethin Aldous and Jairus McLeary,89
+743,Sling Blade,Drama,1996,84,8.4,Billy Bob Thornton,135
+744,The Truffle Hunters,Documentary,2021,84,7.1,Gregory Kershaw and Michael Dweck,84
+745,A Christmas Tale,Drama,2008,84,6.9,Arnaud Desplechin,150
+746,Giant,Drama,1956,84,6.9,George Stevens,201
+747,Brazil,Sci-Fi,1985,84,8.6,Terry Gilliam,132
+748,In the Shadow of the Moon,Documentary,2007,84,7.5,David Sington,109
+749,The Big Risk,Drama,2005,84,7.3,Claude Sautet,103
+751,76 Days,Drama,2020,84,7.3,Hao Wu and Weixi Chen,93
+752,Children of Men,Adventure,2006,84,8.5,Alfonso Cuarón,109
+753,Broadcast News,Drama,1987,84,7.5,James L. Brooks,133
+754,Revanche,Drama,2009,84,8.1,Götz Spielmann,121
+755,The Man Without a Past,Drama,2003,84,7.6,Aki Kaurismäki,97
+756,American Movie,Documentary,1999,84,8.2,Chris Smith,107
+757,After the Storm,Drama,2017,84,8.0,Hirokazu Koreeda,117
+758,Moonrise Kingdom,Drama,2012,84,8.1,Wes Anderson,94
+761,Calle 54,Music,2000,84,4.0,Fernando Trueba,105
+762,Up the Yangtze,Documentary,2008,84,7.7,Yung Chang,93
+764,McQueen,Biography,2018,84,7.7,Ian Bonhôte and Peter Ettedgui,111
+765,In the Heights,Drama,2021,84,6.9,Jon M. Chu,143
+766,The Black Stallion,Adventure,1979,84,8.4,Carroll Ballard,118
+767,Booksmart,Comedy,2019,84,4.8,Olivia Wilde,102
+769,Writing with Fire,Documentary,2021,84,6.8,Rintu Thomas and Sushmit Ghosh,93
+770,Ascension,Documentary,2021,84,5.9,Jessica Kingdon,97
+771,The Handmaiden,Drama,2016,84,8.6,Chan-wook Park,144
+772,Lantana,Drama,2001,84,8.3,Ray Lawrence,121
+774,Séraphine,Biography,2009,84,7.7,Martin Provost,125
+776,A Serious Man,Drama,2009,84,6.8,Ethan Coen and Joel Coen,106
+777,The Joy Luck Club,Drama,1993,84,8.1,Wayne Wang,139
+778,Withnail & I,Drama,1987,84,6.2,Bruce Robinson,107
+779,The Postman Always Rings Twice,Drama,1946,84,8.4,Tay Garnett,113
+780,American Beauty,Drama,1999,84,8.8,Sam Mendes,122
+781,Beanpole,Drama,2020,84,6.5,Kantemir Balagov,137
+782,Harmonium,Drama,2017,84,7.7,Kôji Fukada,120
+783,Blade Runner,Action,1982,84,8.7,Ridley Scott,117
+784,Kagemusha,Drama,1980,84,6.5,Akira Kurosawa,180
+785,Heart of a Dog,Documentary,2015,84,5.8,Laurie Anderson,75
+786,Distant,Drama,2004,84,8.4,Nuri Bilge Ceylan,110
+787,Far From Heaven,Drama,2002,84,8.0,Todd Haynes,107
+788,Lagaan: Once Upon a Time in India,Drama,2002,84,8.3,Ashutosh Gowariker,224
+789,No Man's Land,Drama,2001,84,8.0,Danis Tanovic,98
+790,Prizzi's Honor,Drama,1985,84,6.3,John Huston,130
+791,All the President's Men,Biography,1976,84,8.2,Alan J. Pakula,138
+793,Aferim!,Adventure,2016,84,7.7,Radu Jude,108
+794,War Witch,Drama,2013,84,7.5,Kim Nguyen,90
+795,2001: A Space Odyssey,Adventure,1968,84,8.2,Stanley Kubrick,141
+796,Toy Story 4,Adventure,2019,84,7.9,Josh Cooley,100
+797,Darwin's Nightmare,Documentary,2005,84,7.5,Hubert Sauper,107
+798,Aliens,Action,1986,84,9.0,James Cameron,137
+799,My Winnipeg,Drama,2008,84,7.1,Guy Maddin,80
+800,On the Record,Documentary,2020,84,8.3,Amy Ziering and Kirby Dick,95
+801,In My Room,Sci-Fi,2019,84,6.3,Ulrich Köhler,119
+802,Mystic River,Drama,2003,84,7.1,Clint Eastwood,138
+804,"Oslo, August 31st",Drama,2012,84,7.7,Joachim Trier,95
+806,Looper,Action,2012,84,8.2,Rian Johnson,119
+807,Graduation,Drama,2017,84,7.3,Cristian Mungiu,128
+808,Kubo and the Two Strings,Adventure,2016,84,8.1,Travis Knight,101
+809,The Other Side of Hope,Drama,2017,84,6.9,Aki Kaurismäki,100
+810,The Vast of Night,Sci-Fi,2020,84,6.6,Andrew Patterson,91
+811,Momma's Man,Drama,2008,84,5.0,Azazel Jacobs,94
+812,Old Joy,Drama,2006,84,6.1,Kelly Reichardt,76
+813,Kings & Queen,Drama,2005,84,8.0,Arnaud Desplechin,150
+814,You Were Never Really Here,Drama,2018,84,7.3,Lynne Ramsay,89
+815,In the Name of the Father,Biography,1993,84,8.2,Jim Sheridan,133
+816,Ballast,Drama,2008,84,7.8,Lance Hammer,96
+817,Volver,Drama,2006,84,8.4,Pedro Almodóvar,121
+818,The Square,Drama,2013,84,7.9,Jehane Noujaim,95
+819,Widows,Drama,2018,84,6.9,Steve McQueen,129
+820,Love After Love,Drama,2018,84,5.7,Russell Harbaugh,91
+821,Caché (Hidden),Drama,2005,84,6.6,Michael Haneke,117
+822,Synonyms,Drama,2019,84,5.8,Nadav Lapid,123
+823,The Dark Knight,Action,2008,84,8.9,Christopher Nolan,152
+824,A Ghost Story,Drama,2017,84,7.1,David Lowery,92
+828,Museum Hours,Drama,2013,84,6.8,Jem Cohen,107
+829,Evangelion: 3.0+1.0 Thrice Upon a Time,Action,2021,84,7.5,Hideaki Anno and Katsuichi Nakayama and Kazuya Tsurumaki and Mahiro Maeda,154
+831,The Bad News Bears,Drama,1976,84,8.3,Michael Ritchie,102
+832,The Insider,Biography,1999,84,8.4,Michael Mann,157
+833,The Descendants,Drama,2011,84,7.7,Alexander Payne,115
+834,First Man,Biography,2018,84,7.4,Damien Chazelle,141
+835,The Terminator,Action,1984,84,7.6,James Cameron,107
+836,Cat on a Hot Tin Roof,Drama,1958,84,7.6,Richard Brooks,108
+837,Snowpiercer,Action,2014,84,7.2,Joon-ho Bong,126
+838,Happy-Go-Lucky,Drama,2008,84,8.0,Mike Leigh,118
+839,Lassie,Adventure,2006,84,7.1,Charles Sturridge,100
+840,Shrek,Adventure,2001,84,8.8,Andrew Adamson and Vicky Jenson,90
+842,Victor Victoria,Comedy,1982,84,7.5,Blake Edwards,134
+844,The Fallout,Drama,2022,84,7.0,Megan Park,92
+845,The Quiet American,Drama,2002,84,8.8,Phillip Noyce,101
+846,The Pinochet Case,Documentary,2002,84,8.1,Patricio Guzmán,110
+847,The Day I Became a Woman,Drama,2001,84,6.2,Marzieh Makhmalbaf,78
+848,Sense and Sensibility,Drama,1995,84,8.3,Ang Lee,136
+849,Weiner,Documentary,2016,84,7.3,Elyse Steinberg and Josh Kriegman,96
+850,Stalag 17,Drama,1953,84,7.8,Billy Wilder,120
+851,Iraq in Fragments,War,2006,84,6.7,James Longley,94
+852,The Cove,Drama,2009,84,8.2,Louie Psihoyos,92
+853,Rocco and His Brothers (re-release),Drama,2002,84,7.6,Luchino Visconti,177
+854,Mutual Appreciation,Comedy,2006,84,6.1,Andrew Bujalski,110
+855,Boys State,Documentary,2020,84,7.9,Amanda McBaine and Jesse Moss,105
+857,Stray Dogs,Drama,2014,84,6.3,Ming-liang Tsai,138
+858,The Rescue,Drama,2021,84,8.1,Elizabeth Chai Vasarhelyi and Jimmy Chin,107
+859,One Flew Over the Cuckoo's Nest,Drama,1975,84,8.7,Milos Forman,133
+860,13 Assassins,Action,2011,84,8.0,Takashi  Miike,141
+861,Dracula: Pages from a Virgin's Diary,Horror,2003,84,5.8,Guy Maddin,73
+862,Together,Drama,2001,84,7.9,Lukas Moodysson,106
+864,Guy and Madeline on a Park Bench,Drama,2010,83,6.4,Damien Chazelle,82
+865,Crazy Heart,Drama,2009,83,7.5,Scott Cooper,112
+866,The Fool,Drama,2015,83,8.1,Yuriy Bykov,116
+868,Stray,Documentary,2021,83,7.4,Elizabeth Lo,72
+869,De Palma,Biography,2016,83,7.5,Jake Paltrow and Noah Baumbach,107
+870,The Reason I Jump,Documentary,2021,83,8.0,Jerry Rothwell,82
+871,A Little Princess,Drama,1995,83,7.5,Alfonso Cuarón,97
+872,The Last Black Man in San Francisco,Drama,2019,83,7.1,Joe Talbot,121
+873,Custody,Drama,2018,83,7.5,Xavier Legrand,93
+874,Under the Shadow,Thriller,2016,83,7.6,Babak Anvari,84
+875,Adaptation.,Drama,2002,83,8.1,Spike Jonze,114
+876,Fighter,Documentary,2001,83,8.5,Amir Bar-Lev,91
+879,Avatar,Action,2009,83,7.5,James Cameron,162
+880,The Forbidden Room,Drama,2015,83,7.4,Evan Johnson and Guy Maddin,130
+881,My Dinner with Andre,Biography,1981,83,6.8,Louis Malle,110
+882,Network,Drama,1976,83,8.4,Sidney Lumet,121
+883,An American in Paris,Drama,1951,83,6.8,Vincente Minnelli,114
+884,The Secret of the Grain,Drama,2008,83,7.3,Abdel Kechiche,151
+885,Trainspotting,Drama,1996,83,8.7,Danny Boyle,94
+886,Welcome to the Dollhouse,Drama,1996,83,7.8,Todd Solondz,88
+887,The Disciple,Drama,2021,83,7.5,Chaitanya Tamhane,127
+888,The Graduate,Drama,1967,83,7.4,Mike Nichols,105
+889,The Ground Beneath My Feet,Drama,2019,83,7.0,Marie Kreutzer,108
+891,Fantastic Mr. Fox,Adventure,2009,83,8.3,Wes Anderson,87
+892,In the Loop,Comedy,2009,83,7.9,Armando Iannucci,106
+893,Bus 174,Crime,2003,83,7.6,Felipe Lacerda and José Padilha,122
+894,Soul,Adventure,2020,83,8.2,Kemp Powers and Pete Docter,100
+895,Osama,Drama,2004,83,6.5,Siddiq Barmak,83
+896,Amores Perros,Drama,2001,83,5.4,Alejandro González Iñárritu,154
+897,The Gleaners & I,Documentary,2001,83,8.6,Agnès Varda,82
+898,The Salt of the Earth,Biography,2015,83,8.3,Juliano Ribeiro Salgado and Wim Wenders,110
+899,Glory,Drama,2017,83,7.0,Kristina Grozeva and Petar Valchanov,101
+900,Rat Film,Documentary,2017,83,5.3,Theo Anthony,82
+902,Office,Comedy,2015,83,5.6,Johnnie To,119
+903,Being There,Drama,1979,83,7.4,Hal Ashby,130
+905,Kiki's Delivery Service,Adventure,1989,83,8.5,Hayao Miyazaki,103
+906,Moonstruck,Drama,1987,83,8.4,Norman Jewison,102
+907,Once Upon a Time ... in Hollywood,Drama,2019,83,7.5,Quentin Tarantino,161
+908,Raising Victor Vargas,Drama,2003,83,6.3,Peter Sollett,88
+909,Who Framed Roger Rabbit,Mystery,1988,83,8.6,Robert Zemeckis,104
+911,The Cave,War,2019,83,7.0,Firas Fayyad,107
+912,'71,Action,2015,83,7.5,Yann Demange,99
+913,The Guilty,Drama,2018,83,8.0,Gustav Möller,85
+914,Blackfish,Drama,2013,83,8.2,Gabriela Cowperthwaite,83
+915,The Witch,Mystery,2016,83,7.4,Robert Eggers,92
+916,Prayers for the Stolen,Drama,2021,83,7.9,Tatiana Huezo,110
+917,Juliet of the Spirits (re-release),Drama,2001,83,7.2,Federico Fellini,137
+918,I Wish I Knew,History,2020,83,5.3,Zhang Ke Jia,116
+919,Limbo,Drama,2021,83,7.1,Ben Sharrock,104
+921,Corpse Bride,Fantasy,2005,83,7.9,Mike Johnson and Tim Burton,77
+922,Project Nim,Documentary,2011,83,7.5,James Marsh,93
+924,The Wind Rises,Biography,2013,83,8.3,Hayao Miyazaki,126
+926,Turning Red,Adventure,2022,83,6.4,Domee Shi,100
+927,The Lighthouse,Drama,2019,83,8.0,Robert Eggers,109
+928,Spider-Man 2,Action,2004,83,8.5,Sam Raimi,127
+930,Rose Plays Julie,Drama,2021,83,5.3,Christine Molloy and Joe Lawlor,100
+931,Saint Frances,Drama,2020,83,6.9,Alex Thompson,106
+932,20 Feet from Stardom,Documentary,2013,83,7.3,Morgan Neville,91
+933,When We Were Kings,History,1996,83,8.5,Leon Gast,89
+934,Kurt Cobain: Montage of Heck,Biography,2015,83,7.7,Brett Morgen,145
+935,20th Century Women,Drama,2016,83,7.3,Mike Mills,119
+937,Paranoid Park,Drama,2008,83,6.6,Gus Van Sant,85
+938,Pina,Musical,2011,83,7.2,Wim Wenders,106
+939,Animal Kingdom,Drama,2010,83,7.8,David Michôd,113
+940,Rosie,Drama,2019,83,6.6,Paddy Breathnach,86
+941,A Room with a View,Drama,1986,83,7.3,James Ivory,117
+942,Hugo,Mystery,2011,83,7.7,Martin Scorsese,127
+943,Tenebrae,Mystery,1984,83,6.2,Dario Argento,101
+944,The LEGO Movie,Action,2014,83,8.3,Christopher Miller and Phil Lord,100
+945,Gloria,Drama,2014,83,7.2,Sebastián Lelio,110
+946,Come from Away,Drama,2021,83,7.2,Christopher Ashley,106
+947,Ixcanul,Drama,2016,83,8.3,Jayro Bustamante,93
+948,The Selfish Giant,Drama,2013,83,7.7,Clio Barnard,91
+949,The Day He Arrives,Drama,2012,83,7.3,Sang-soo Hong,79
+950,Hadewijch,Drama,2010,83,5.4,Bruno Dumont,120
+951,Taxidermia,Drama,2009,83,7.5,György Pálfi,91
+952,Drag Me to Hell,Thriller,2009,83,8.2,Sam Raimi,99
+953,The King of Kong: A Fistful of Quarters,Sport,2007,83,8.2,Seth Gordon,79
+954,Spider,Drama,2002,83,7.2,David Cronenberg,98
+955,Manhattan,Drama,1979,83,8.3,Woody Allen,96
+958,Seymour: An Introduction,Biography,2015,83,4.8,Ethan Hawke,84
+959,56 Up,Documentary,2013,83,8.4,Michael Apted and Paul Almond,144
+960,Triad Election,Drama,2007,83,6.9,Johnnie To,92
+961,Milk,Biography,2008,83,7.6,Gus Van Sant,128
+962,Roll Red Roll,Documentary,2019,83,8.1,Nancy Schwartzman,80
+964,From Russia with Love,Action,1964,83,8.0,Terence Young,115
+965,Who We Are Now,Drama,2018,83,6.0,Matthew Newton,95
+966,Burning Bush,Biography,2014,83,7.4,Agnieszka Holland,231
+967,Enter the Dragon,Action,1973,83,7.7,Robert Clouse,102
+968,Cutie and the Boxer,Documentary,2013,83,7.1,Zachary Heinzerling,82
+969,U2 3D,Music,2008,83,8.0,Catherine Owens and Mark Pellington,85
+970,One Night in Miami,Drama,2020,83,6.9,Regina King,114
+972,Belle,Adventure,2022,83,7.7,Mamoru Hosoda,121
+973,Vera Drake,Drama,2004,83,7.5,Mike Leigh,125
+974,Kill Bill: Vol. 2,Action,2004,83,8.2,Quentin Tarantino,136
+975,The Apostle,Drama,1997,83,5.7,Robert Duvall,134
+976,Babe,Adventure,1995,83,7.7,Chris Noonan,89
+977,Private Life,Drama,2018,83,7.8,Tamara Jenkins,123
+978,Lake of Fire,Documentary,2007,83,7.1,Tony Kaye,152
+979,Red Army,Biography,2014,83,7.7,Gabe Polsky,76
+980,The Miracle Worker,Biography,1962,83,7.1,Arthur Penn,106
+981,Porco Rosso,Adventure,1992,83,8.0,Hayao Miyazaki,94
+983,The Flat,Documentary,2012,83,8.2,Arnon Goldfinger,97
+984,"Bloody Nose, Empty Pockets",Documentary,2020,83,7.3,Bill Ross IV and Turner Ross,98
+985,Blind,Drama,2015,83,7.6,Eskil Vogt,96
+986,The Magdalene Sisters,Drama,2003,83,7.9,Peter Mullan,119
+987,Superman II,Action,1981,83,7.6,Richard Donner and Richard Lester,127
+988,Tyson,Sport,2009,83,8.0,James Toback,90
+989,101 Dalmatians,Adventure,1961,83,7.9,Clyde Geronimi and Hamilton Luske and Wolfgang Reitherman,79
+990,Henry V,Action,1989,83,7.2,Kenneth Branagh,137
+991,The Sting,Drama,1973,83,8.2,George Roy Hill,129
+992,13th,Crime,2016,83,7.7,Ava DuVernay,100
+994,Footnote,Drama,2012,83,6.3,Joseph Cedar,103
+995,Being 17,Drama,2016,83,8.2,André Téchiné,116
+996,The White Diamond,Adventure,2005,83,7.2,Werner Herzog,90
+997,Free Solo,Documentary,2018,83,8.1,Elizabeth Chai Vasarhelyi and Jimmy Chin,100
+998,Saint Maud,Drama,2021,83,7.0,Rose Glass,84
+999,Trouble the Water,Documentary,2008,83,7.9,Carl Deal and Tia Lessin,93
+1000,Mustang,Drama,2015,83,7.7,Deniz Gamze Ergüven,97
+1001,Palm Springs,Mystery,2020,83,7.7,Max Barbakow,90
+1002,James White,Drama,2015,83,7.0,Josh Mond,85
+1003,It Follows,Mystery,2015,83,7.9,David Robert Mitchell,100
+1004,Driveways,Drama,2020,83,8.0,Andrew Ahn,83
+1005,Don't Think Twice,Drama,2016,83,7.2,Mike Birbiglia,92
+1006,The Happiest Day in the Life of Olli Mäki,Biography,2017,83,8.2,Juho Kuosmanen,92
+1007,Sweeney Todd: The Demon Barber of Fleet Street,Drama,2007,83,7.7,Tim Burton,116
+1008,Charade,Mystery,1963,83,8.1,Stanley Donen,113
+1009,Blood Simple,Drama,1985,83,8.1,Ethan Coen and Joel Coen,99
+1010,Court,Drama,2015,83,8.4,Chaitanya Tamhane,116
+1011,Waking Life,Drama,2001,83,8.0,Richard Linklater,99
+1012,"20,000 Days on Earth",Drama,2014,83,6.6,Iain Forsyth and Jane Pollard,97
+1013,The Woman Who Left,Drama,2017,83,6.5,Lav Diaz,226
+1014,Election,Drama,1999,83,8.7,Alexander Payne,103
+1015,Creed,Drama,2015,82,8.0,Ryan Coogler,133
+1017,Local Hero,Drama,1983,82,7.3,Bill Forsyth,111
+1018,Monsieur Lazhar,Drama,2012,82,7.7,Philippe Falardeau,94
+1019,Glengarry Glen Ross,Drama,1992,82,8.1,James Foley,100
+1020,Gigi,Comedy,1958,82,6.9,Vincente Minnelli,115
+1021,Transit,Drama,2019,82,6.6,Christian Petzold,101
+1023,Venus,Drama,2006,82,7.1,Roger Michell,95
+1024,Toni Morrison: The Pieces I Am,Documentary,2019,82,7.5,Timothy Greenfield-Sanders,120
+1025,Diner,Drama,1982,82,8.4,Barry Levinson,110
+1026,The Killing of Two Lovers,Drama,2021,82,6.8,Robert Machoian,85
+1027,Night of the Kings,Drama,2021,82,4.6,Philippe Lacôte,93
+1029,The Second Mother,Drama,2015,82,8.3,Anna Muylaert,112
+1030,These Birds Walk,Drama,2013,82,7.8,Bassam Tariq and Omar Mullick,71
+1031,Rivers and Tides: Andy Goldsworthy Working with Time,Documentary,2002,82,7.6,Thomas Riedelsheimer,90
+1032,Ajami,Drama,2010,82,8.1,Scandar Copti and Yaron Shani,120
+1035,127 Hours,Adventure,2010,82,8.1,Danny Boyle,94
+1036,Relaxer,Fantasy,2019,82,6.5,Joel Potrykus,91
+1037,Tell No One,Drama,2008,82,7.5,Guillaume Canet,131
+1038,The Illusionist,Animation,2010,82,7.5,Sylvain Chomet,80
+1039,The Deep Blue Sea,Drama,2012,82,6.4,Terence Davies,98
+1040,The End of the Tour,Drama,2015,82,7.5,James Ponsoldt,106
+1041,Memories of Murder,Drama,2005,82,8.4,Joon-ho Bong,132
+1042,Enron: The Smartest Guys in the Room,Documentary,2005,82,8.2,Alex Gibney,109
+1044,Vortex,Drama,2022,82,6.5,Gaspar Noé,140
+1045,Forrest Gump,Drama,1994,82,7.8,Robert Zemeckis,142
+1049,"Good Bye, Dragon Inn",Drama,2004,82,5.9,Ming-liang Tsai,82
+1050,Safe Conduct,Biography,2002,82,6.2,Bertrand Tavernier,170
+1051,Leaving Las Vegas,Drama,1995,82,8.5,Mike Figgis,111
+1052,Maiden,Sport,2019,82,8.2,Alex Holmes,97
+1053,War for the Planet of the Apes,Action,2017,82,8.0,Matt Reeves,140
+1054,Duma,Adventure,2005,82,8.4,Carroll Ballard,100
+1055,We the Animals,Drama,2018,82,6.5,Jeremiah Zagar,94
+1056,The Constant Gardener,Drama,2005,82,7.0,Fernando Meirelles,129
+1057,Short Term 12,Drama,2013,82,8.4,Destin Cretton,96
+1058,Parenthood,Drama,1989,82,8.3,Ron Howard,124
+1059,Two of Us,Drama,2021,82,5.7,Filippo Meneghetti,99
+1060,Street Gang: How We Got to Sesame Street,History,2021,82,7.6,Marilyn Agrelo,107
+1061,Residue,Drama,2020,82,4.5,Merawi Gerima,90
+1062,House of Hummingbird,Drama,2020,82,7.1,Bora Kim,138
+1063,Star Wars: Episode V - The Empire Strikes Back,Action,1980,82,9.1,Irvin Kershner,124
+1065,Sugar,Drama,2009,82,7.9,Anna Boden and Ryan Fleck,120
+1066,Marwencol,Documentary,2010,82,7.8,Jeff Malmberg,83
+1067,The Wind That Shakes the Barley,Drama,2007,82,7.9,Ken Loach,127
+1068,Lilya 4-Ever,Drama,2003,82,8.1,Lukas Moodysson,109
+1069,To Catch a Thief,Mystery,1955,82,6.8,Alfred Hitchcock,106
+1070,The Lobster,Sci-Fi,2016,82,7.1,Giorgos Lanthimos,119
+1071,The Nightmare Before Christmas,Fantasy,1993,82,8.4,Henry Selick,76
+1072,Pride & Prejudice,Drama,2005,82,8.6,Joe Wright,127
+1073,The Squid and the Whale,Drama,2005,82,7.4,Noah Baumbach,81
+1074,Winged Migration,Documentary,2003,82,8.2,Jacques Cluzaud and Jacques Perrin and Michel Debats,89
+1076,School of Rock,Comedy,2003,82,8.3,Richard Linklater,108
+1077,Life and Nothing More,Drama,2018,82,8.2,Antonio Méndez Esparza,114
+1078,Star Trek,Action,2009,82,7.9,J.J. Abrams,127
+1080,A Quiet Place,Sci-Fi,2018,82,7.0,John Krasinski,90
+1083,Frances Ha,Drama,2013,82,7.8,Noah Baumbach,86
+1084,The Namesake,Drama,2007,82,7.9,Mira Nair,122
+1085,C'mon C'mon,Drama,2021,82,7.1,Mike Mills,108
+1086,A Hijacking,Drama,2013,82,7.2,Tobias Lindholm,103
+1087,In the Family,Drama,2012,82,6.6,Patrick Wang,169
+1088,Hunger,Drama,2008,82,7.7,Steve McQueen,96
+1089,Cold Comfort Farm,Comedy,1996,82,7.9,John Schlesinger,95
+1091,Dear Zachary: A Letter to a Son About His Father,Biography,2008,82,8.4,Kurt Kuenne,95
+1092,Anvil! The Story of Anvil,Biography,2009,82,8.3,Sacha Gervasi,80
+1093,The Trip,Comedy,2011,82,6.5,Michael Winterbottom,109
+1094,Harry Potter and the Prisoner of Azkaban,Adventure,2004,82,8.3,Alfonso Cuarón,141
+1096,Michael Clayton,Drama,2007,82,7.6,Tony Gilroy,119
+1097,Downfall,Biography,2005,82,8.6,Oliver Hirschbiegel,156
+1098,Knives Out,Drama,2019,82,7.7,Rian Johnson,131
+1099,The Spectacular Now,Drama,2013,82,7.9,James Ponsoldt,95
+1101,Face/Off,Action,1997,82,8.8,John Woo,138
+1103,Sator,Horror,2021,82,6.3,Jordan Graham,85
+1104,Let the Right One In,Drama,2008,82,8.6,Tomas Alfredson,115
+1105,Rams,Drama,2016,82,7.6,Grímur Hákonarson,93
+1106,Paris Is Burning,Documentary,1991,82,7.4,Jennie Livingston,71
+1107,Certified Copy,Drama,2011,82,7.8,Abbas Kiarostami,106
+1110,The Celebration,Drama,1998,82,8.1,Thomas Vinterberg,105
+1111,Broadway Danny Rose,Comedy,1984,82,7.1,Woody Allen,84
+1112,Taxi to the Dark Side,Crime,2008,82,7.1,Alex Gibney,106
+1114,Repo Man,Action,1984,82,8.0,Alex Cox,92
+1115,Pig,Drama,2021,82,7.2,Michael Sarnoski,92
+1116,Give Me Liberty,Comedy,2019,82,7.6,Kirill Mikhanovsky,110
+1117,The Love Witch,Drama,2016,82,6.0,Anna Biller,120
+1118,Marjorie Prime,Sci-Fi,2017,82,7.3,Michael Almereyda,99
+1119,Sorry We Missed You,Drama,2020,82,8.0,Ken Loach,101
+1121,Down and Out in Beverly Hills,Comedy,1986,82,7.7,Paul Mazursky,103
+1122,Steve Jobs,Biography,2015,82,7.1,Danny Boyle,122
+1123,Marley,Biography,2012,82,8.0,Kevin Macdonald,144
+1124,The White Ribbon,Drama,2009,82,7.9,Michael Haneke,144
