@@ -6,4 +6,4 @@ Among such aggregators are the following sources:
 3. Box Office Mojo. URL: https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW. Dataset "Top 1000 Lifetime Film Grosses" was scraped.
 
 BeautifulSoup, Selenium and Requests libraries were utilized to collect the aforementioned movie datasets.
-The datasets' results were interpreted as well as analyzed through Matplotlib, NLTK and some other Python libraries.
+
